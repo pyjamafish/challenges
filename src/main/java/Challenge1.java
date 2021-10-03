@@ -8,7 +8,7 @@ public class Challenge1 {
      * @return the index of the array with greatest average portion size, or in the case of a tie,
      * with the greater number of entrees.
      */
-    public int largestPortions(int[][] restaurants) {
+    public static int largestPortions(int[][] restaurants) {
         return 0;
     }
 }
