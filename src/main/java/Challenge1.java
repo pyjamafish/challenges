@@ -9,6 +9,6 @@ public class Challenge1 {
      * with the greater number of entrees.
      */
     public static int largestPortions(int[][] restaurants) {
-        return 0;
+        return 1;
     }
 }
