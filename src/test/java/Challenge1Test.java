@@ -32,13 +32,4 @@ class Challenge1Test {
         };
         assertEquals(0, Challenge1.largestPortions(restaurants));
     }
-
-    @Test
-    void testTiedRestaurants() {
-        int[][] restaurants = {
-                {102, 124, 142, 182, 195},
-                {102, 124, 142, 182, 195, 149}
-        };
-        assertEquals(1, Challenge1.largestPortions(restaurants));
-    }
 }

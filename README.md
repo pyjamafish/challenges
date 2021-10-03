@@ -15,8 +15,6 @@ Write a function that will help Bob find his favorite restaurant:
 given a 2D array such that each element of the outer array is
 an array representing the portion sizes of a restaurant's entrees (in grams),
 return the index of the array with greatest average portion size.
-Bob enjoys choice, so in the case of a tie,
-return the index of the array with the greater number of entrees.
 
 Example input:
 ```
