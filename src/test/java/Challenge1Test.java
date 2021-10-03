@@ -1,11 +1,12 @@
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.Assert.*;
 
-class Challenge1Test {
+
+public class Challenge1Test {
 
     @Test
-    void testFirstRestaurantGreatest() {
+    public void testFirstRestaurantGreatest() {
         int[][] restaurants = {
                 {555, 472, 472, 520},
                 {347, 430, 396, 385, 390, 395},
@@ -15,7 +16,7 @@ class Challenge1Test {
     }
 
     @Test
-    void testMiddleRestaurantGreatest() {
+    public void testMiddleRestaurantGreatest() {
         int[][] restaurants = {
                 {116, 127, 169, 120, 160},
                 {149, 154, 171, 175, 229},
@@ -26,7 +27,7 @@ class Challenge1Test {
     }
 
     @Test
-    void testSingleRestaurant() {
+    public void testSingleRestaurant() {
         int[][] restaurants = {
                 {116, 127, 169, 120, 160}
         };
