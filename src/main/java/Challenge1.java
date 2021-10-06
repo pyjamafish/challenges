@@ -7,6 +7,6 @@ public class Challenge1 {
      * @return the index of the array with greatest average portion size.
      */
     public static int largestPortions(int[][] restaurants) {
-        return 0;
+        return -1;
     }
 }
