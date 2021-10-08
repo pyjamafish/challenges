@@ -1,6 +1,7 @@
 # Fisher's Coding Challenges
-
 Welcome to my coding challenges!
+
+## Instructions
 - To get started, fork the repository and clone your fork.
 - Then, you can try solving one of the challenges.
 - When you're ready, push your solution and submit a PR!
