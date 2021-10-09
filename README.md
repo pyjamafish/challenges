@@ -7,6 +7,8 @@ Welcome to my coding challenges!
 - When you're ready, push your solution and submit a PR!
 I've set up an Action that will see if your code passes all the tests.
 
+See the [wiki](https://github.com/tactlessfish/challenges/wiki/Detailed-Instructions) for detailed instructions.
+
 ## Challenge 1
 Bob is always very hungry.
 When given a choice,
