@@ -1,10 +1,13 @@
 # Fisher's Coding Challenges
-
 Welcome to my coding challenges!
+
+## Instructions
 - To get started, fork the repository and clone your fork.
 - Then, you can try solving one of the challenges.
 - When you're ready, push your solution and submit a PR!
 I've set up an Action that will see if your code passes all the tests.
+
+See the [wiki](https://github.com/tactlessfish/challenges/wiki/Detailed-Instructions) for detailed instructions.
 
 ## Challenge 1
 Bob is always very hungry.
